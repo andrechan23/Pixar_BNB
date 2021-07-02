@@ -59,7 +59,7 @@ li{
 		transform: translate(1s%,10%);
 	}
 
-	#logo,h1,#topBanner>h2{
+	#logo,#user, h1,#topBanner>h2{
 		position: absolute;
 	}
 
@@ -80,3 +80,9 @@ li{
 	display: flex;
 	justify-content:space-evenly;
 }
+
+	#user{
+		width:3%;
+		height: 5%;
+		transform: translate(2900%,100%);
+	}
